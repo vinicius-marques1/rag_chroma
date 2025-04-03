@@ -1,0 +1,13 @@
+p {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  background-color: yellow;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 20px;
+  width: 300px;
+}
